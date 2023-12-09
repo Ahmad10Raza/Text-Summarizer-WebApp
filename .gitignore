@@ -6,7 +6,7 @@ __pycache__/
 
 # C extensions
 *.so
-
+files.watcherExclude
 # Distribution / packaging
 .Python
 build/
